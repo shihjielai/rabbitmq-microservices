@@ -1,4 +1,4 @@
-package com.example.stockservice.dto;
+package com.example.emailservice.dto;
 
 import lombok.Data;
 

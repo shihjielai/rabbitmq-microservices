@@ -1,4 +1,4 @@
-package com.example.stockservice.config;
+package com.example.emailservice.config;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
